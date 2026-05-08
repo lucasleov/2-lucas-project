@@ -1,1 +1,15 @@
+# The Secret Vault (Passwords)
+.env
 
+# The Isolated Lab (Too big to upload)
+.venv/
+venv/
+ENV/
+
+# Python Translation Junk
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac System Files (Cleanliness)
+.DS_Store
